@@ -12,7 +12,7 @@
 🌍 Dedicated to creating **impactful projects**, blending **tech + creativity** for global reach.  
 🚀 Currently working on **NextGen** – my full-stack app.  
 🎥 I also love mixing **code + content** → turning dev struggles into creative digital stories.  
-🌟 Dreaming big: aiming for **remote roles, international clients & building my personal tech brand**.  
+🌟 Dreaming big: aiming for **On-Sites roles, international clients & building my personal tech brand**.  
 
 ---
 
