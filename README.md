@@ -50,11 +50,12 @@
 ## 🌐 Let’s Connect  
 
 📩 **Email:** abdulrehman03044642422@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdulrehman-r-98b182253/)  
-📷 [Instagram](https://www.instagram.com/itz_._abdulrehman)  
-🎬 [TikTok](https://www.tiktok.com/@itx_._muzammil)  
-📘 [Facebook](https://www.facebook.com/share/1BFnbCr3hy/)  
-🌍 **Portfolio:** https://own-website-pi.vercel.app/
+🌍 **Portfolio:** [https://own-website-pi.vercel.app/](https://own-website-pi.vercel.app/) → **[Click Me](https://own-website-pi.vercel.app/)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman-r-98b182253/) → **[Click Me](https://www.linkedin.com/in/abdulrehman-r-98b182253/)**  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/itz_._abdulrehman) → **[Click Me](https://www.instagram.com/itz_._abdulrehman)**  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@itx_._muzammil) → **[Click Me](https://www.tiktok.com/@itx_._muzammil)**  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/share/1BFnbCr3hy/) → **[Click Me](https://www.facebook.com/share/1BFnbCr3hy/)**
 
 ---
 
