@@ -50,7 +50,7 @@
 ## 🌐 Let’s Connect  
 
 📩 **Email:** abdulrehman03044642422@gmail.com  
-🌍 **Portfolio:** [https://own-website-pi.vercel.app/](https://own-website-pi.vercel.app/) → **[Click Me](https://own-website-pi.vercel.app/)**
+🌍 **Portfolio:** [https://own-website-pi.vercel.app/](https://own-website-pi.vercel.app/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrehman-r-98b182253/) → **[Click Me](https://www.linkedin.com/in/abdulrehman-r-98b182253/)**  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/itz_._abdulrehman) → **[Click Me](https://www.instagram.com/itz_._abdulrehman)**  
